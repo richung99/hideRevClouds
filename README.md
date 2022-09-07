@@ -4,8 +4,8 @@ Dynamo script to hide or show revision clouds from floor plans, title blocks, an
 Custom Node Packages
 ======
 Using the package manager, ensure that the following packages are installed:
-archilab v.2021.25.2721
-GeniusLoci v.2021.6.3
+* archilab v.2021.25.2721
+* GeniusLoci v.2021.6.3
 
 Usage
 ======
